@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b25087a2-ea35-47ca-a600-a66591fbaf4d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gFls2nLIAKnLzH8wMmXEQ11VZt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Graphic.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NumOperations.executor": "Run",
+    "Application.Speed.executor": "Run",
+    "JUnit.InputTest.executor": "Run",
+    "JUnit.InputTest.testWhenFileIsFullLength.executor": "Run",
+    "JUnit.InputTest.testWhenFileNotFound.executor": "Run",
+    "JUnit.NumOperationsTest.executor": "Run",
+    "JUnit.NumOperationsTest.testSumFunction.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/nikita/Java/Java_2sem",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.20344828",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/arithmeticTest" />
+      <recent name="$PROJECT_DIR$/src/main/java/arithmeticTest/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Speed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arithmeticTest.Speed" />
+      <module name="HSETests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arithmeticTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HSETests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arithmeticTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arithmeticTest" />
+      <option name="MAIN_CLASS_NAME" value="arithmeticTest.InputTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputTest.testWhenFileIsFullLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HSETests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arithmeticTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arithmeticTest" />
+      <option name="MAIN_CLASS_NAME" value="arithmeticTest.InputTest" />
+      <option name="METHOD_NAME" value="testWhenFileIsFullLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputTest.testWhenFileNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HSETests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arithmeticTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arithmeticTest" />
+      <option name="MAIN_CLASS_NAME" value="arithmeticTest.InputTest" />
+      <option name="METHOD_NAME" value="testWhenFileNotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumOperationsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HSETests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arithmeticTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arithmeticTest" />
+      <option name="MAIN_CLASS_NAME" value="arithmeticTest.NumOperationsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Speed" />
+        <item itemvalue="JUnit.InputTest.testWhenFileNotFound" />
+        <item itemvalue="JUnit.InputTest.testWhenFileIsFullLength" />
+        <item itemvalue="JUnit.InputTest" />
+        <item itemvalue="JUnit.NumOperationsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.2" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.2" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b25087a2-ea35-47ca-a600-a66591fbaf4d" name="Changes" comment="" />
+      <created>1715301414499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715301414499</updated>
+      <workItem from="1715303346390" duration="1595000" />
+      <workItem from="1715346368780" duration="7461000" />
+      <workItem from="1715364282097" duration="3122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
